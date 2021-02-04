@@ -1,0 +1,562 @@
+body{
+    margin-top: 15px;
+}
+
+/*Desktop*/
+    .ls_1{
+        font-family: 'Open Sans', sans-serif;
+        text-transform: uppercase;
+        font-size: 16,5px;
+        color: #54524F !important;
+        margin-left: 40px;
+    }
+
+    .ls_1:hover{
+        color: rgb(223, 148, 62) !important;
+    }
+
+    .search {
+        margin-right: 20px;
+        margin-left: 50px;
+        background:#7F7770;
+        height: 40px;
+        border-radius: 40px;
+        padding: 5px;
+        
+    }
+
+    .search .search-btn {
+        background: none;
+        border: none;
+        cursor: pointer;
+        margin-right: 10px;
+        
+    }
+    
+    .search-txt {
+        border: none;
+        background: none;
+        outline: none;
+        padding: 0;
+        color: white;
+        font-size: 15px;
+        line-height: 20px;
+        font-weight: bold;
+        width: 120px;
+        margin-left: 30px;
+    }
+
+    .search-txt::-webkit-input-placeholder{
+        color: rgb(44, 43, 43);
+    }
+
+    .jb_1 {
+        background-image: url(/assets/images/background1.jpg);
+        background-size: cover;
+        height: 1100px;
+        margin-top: -160px;
+    }
+
+    .jumbotron .judul{
+        color:#DEB37E ;
+        font-family: 'Open Sans', sans-serif;
+        font-size: 91px;
+        font-weight: 800;
+        padding-top: 300px;
+        margin-left: -30px;
+    }
+
+    .moto {
+        font-family: 'Open Sans', sans-serif;
+        margin-top: -40px;
+        font-size: 25px;
+        font-weight: 600;
+        font-style: italic;
+        letter-spacing: 5px;
+        margin-left: -155px;
+        color: #54524F;
+    }
+
+    .btn_1{
+        background-color: rgb(255, 255, 255);
+        border-radius: 40px;
+        border-color: #ffff;
+        border-top: none;
+        border-bottom: none;
+        outline: none;
+        width: 230px;
+        color: #776C64;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 800;
+        text-transform: uppercase;
+        font-size: 23px;
+        margin-top: 30px;
+        margin-left: -130px;
+    }
+
+    .btn_1:hover{
+        background-color: black;
+    }
+
+    .baca_1{
+        font-size: 20;
+        font-family: 'Open Sans', sans-serif;
+        width: 350px;
+        font-style: italic;
+        color: #54524F;
+        margin-top: 20px;
+        margin-left: -160px;
+    }
+
+    .judul_2{
+        font-family: 'Open Sans', sans-serif;
+        text-align: center;
+        color: #E2A355;
+        font-size: 62px;
+        text-transform: uppercase;
+        font-weight: 700;
+        margin-top: -90px;
+    }
+
+    .isi{
+        font-family: 'Open Sans', sans-serif;
+        text-align: center;
+        color: #7F7770;
+        font-size: 25px;
+        margin-top: -25px;
+    }
+
+    .card{
+        font-family: 'Open Sans', sans-serif;
+        background: #7F7770;
+        border: none;
+        margin-top: 70px;
+        color: white;
+    }
+
+    .judul_konten{
+        font-weight: 800;
+        font-size: 30px;
+    }
+    
+    .isi_konten{
+        font-weight: 400;
+        font-size: 20px;
+    }
+
+    .btn_2 {
+        background-color:#7F7770;
+        border-color: #7F7770;
+        border-radius: 40px;
+        border-top: none;
+        border-bottom: none;
+        outline: none;
+        width: 230px;
+        color: #ffffff;
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 800;
+        text-transform: uppercase;
+        font-size: 23px;
+        margin-top: 120px;
+        margin-left: 440px;
+        margin-bottom: 50px;
+        
+    }
+
+    .btn_2:hover{
+        background-color: rgb(83, 77, 75);
+    }
+
+    .gmb_3{
+        background: #7F7770;
+        border: none;
+    }
+
+    .gambar_3{
+        margin-left: 40px;
+    }
+
+    .judul_3{
+        font-family: 'Open Sans', sans-serif;
+        color: rgb(255, 255, 255);
+        font-size: 50px;
+        width: 540px;
+        font-weight: 600;
+        margin-left: 30px;
+    }
+
+    .isi_3{
+        font-family: 'Open Sans', sans-serif;
+        color: white; 
+        font-size: 29px;
+        width: 600px;
+        margin-left: 30px;
+        text-align: justify;
+    }
+
+    .btn_3{
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 400;
+        text-transform: uppercase;
+        color: white;
+        font-size: 23px;
+        background-color: #E2A355;
+        border-color: #E2A355;
+        width: 230px;
+        border-top: none;
+        border-bottom: none;
+        border-radius: 40px;
+        margin-left: 30px;
+        margin-top: 20px;
+    }
+
+    .btn_3:hover{
+        background:#a88050;
+        border-color: #a88050;
+    }
+
+    .gmb_4{
+        background-color: #a18c71;
+    }
+
+    .gambar_4{
+        margin-right: 5px; 
+    }
+
+    .judul_4{
+        font-family: 'Open Sans', sans-serif;
+        color: rgb(255, 255, 255);
+        font-size: 50px;
+        width: 540px;
+        font-weight: 600;
+        margin-left: 80px;
+    }
+
+    .isi_4{
+        font-family: 'Open Sans', sans-serif;
+        color: white; 
+        font-size: 29px;
+        width: 600px;
+        margin-left: 80px;
+        text-align: justify;
+    }
+
+    .btn_4{
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 400;
+        text-transform: uppercase;
+        color: white;
+        font-size: 23px;
+        background-color: #E2A355;
+        border-color: #E2A355;
+        width: 230px;
+        border-top: none;
+        border-bottom: none;
+        border-radius: 40px;
+        margin-left: 80px;
+        margin-top: 20px;
+    }
+
+    .btn_4:hover{
+        background:#a88050;
+        border-color: #a88050;
+    }
+
+    .jb_3{
+        background-image: url(/assets/images/6.png);
+        background-size: cover;
+        margin-top: 20px;
+    }
+
+    .bingkai-atas{
+        margin-left: -57px;
+        margin-top: -65px;
+    }
+
+    .bingkai-bawah{
+        margin-left: -67px;
+        margin-top: -150px;
+    }
+
+    .judul_5{
+        font-family: 'Open Sans', sans-serif;
+        font-size: 55px;
+        margin-top: -450px;
+        text-align: center;
+        width: 100%;
+        color: white;
+
+    }
+
+    .isi_5{
+        font-family: 'Open Sans', sans-serif;
+        font-size: 29px;
+        text-align: center;
+        color: white;
+        margin-left: 85px;
+        margin-right: 85px;
+        margin-bottom: 100px;
+    }
+
+    .jb_4{
+        background-image: url(/assets/images/7.png);
+        background-size: cover;
+        margin-top: -250px;
+        width: 100%;
+        height: 900px;
+    }
+
+    .judul_6{
+        font-family: 'Open Sans', sans-serif;
+        color: #DEB37E;
+        font-size: 65px;
+        font-weight: 800;
+        font-style: italic;
+        margin-left: 960px;
+        margin-top: 370px;
+    }
+
+    .isi_6{
+        font-family: 'Open Sans', sans-serif;
+        color: #54524F;
+        width: 460px;
+        font-size: 70px;
+        font-weight: 800;
+        margin-left: 850px;
+        margin-top: -40px;
+    }
+
+    .bingkai-bawah-2{
+        margin-top: -120px;
+        margin-left: -67px;
+    }
+
+    .kolom_1{
+        margin-top: -20px;
+        background-image: url(/assets/images/bayangan_2.png);
+        background-size: cover;
+    }
+
+    .judul_7{
+        color: #DEB37E;
+        font-size: 33px;
+        font-weight: 600;
+        font-family: 'Open Sans', sans-serif;
+    }
+
+    .isi_7{
+        color: #333D42;
+        font-family: 'Open Sans', sans-serif;
+        font-size: 18px;
+    }
+
+    .judul_8{
+        font-family: 'Open Sans', sans-serif;
+        font-weight: 600;
+        font-size: 100px;
+        color: #3F3F3F;
+        text-align: center;
+        margin-top: 100px;
+
+    }
+
+    .isi_8{
+        font-family: 'Open Sans', sans-serif;
+        color: #3F3F3F;
+        font-size: 25px;
+        text-align: center;
+        margin-right: 170px;
+        margin-left: 170px;
+        margin-top: -50px;
+        font-weight: 400;
+    }
+
+    .isi_8_2{
+        font-family: 'Open Sans', sans-serif;
+        text-align: center;
+        color: #3F3F3F;
+        font-weight: 700;
+        font-size: 20px;
+        margin-top: 80px;
+    }
+
+
+
+    .jb_5{
+        background-image: url(/assets/images/8.png);
+        margin-top: -50px;
+    }
+
+    .bingkai-atas-3{
+        margin-left: -57px;
+        margin-top: 50px;
+    }
+
+
+    .judul_9{
+        font-family: 'Open Sans', sans-serif;
+        text-align: center;
+        color: white;
+        font-size: 75px;
+        font-weight: 600;
+        margin-top: 100px;
+    }
+
+    .isi_9{
+        font-family: 'Open Sans', sans-serif;
+        font-size: 29px;
+        font-weight: 400;
+        text-align: center;
+        margin-right: 90px;
+        margin-left: 90px;
+        margin-top: 30px;
+    }
+
+    .email{
+        text-align: center;
+        margin-right: 350px;
+        margin-left: 350px;
+        background:#ffffff;
+        height: 40px;
+        border-radius: 40px;
+        padding: 7px;
+        margin-top: 80px;
+        
+    }
+
+    .email-txt{
+        border: none;
+        background: none;
+        outline: none;
+        padding: 0;
+        color: black;
+        font-size: 15px;
+        line-height: 20px;
+        font-weight: bold;
+        width: 200px;
+        margin-left: -150px;
+    }
+    
+    .btn_email{
+        background:#707070;
+        border-top: none;
+        border-bottom: none;
+        border-radius: 40px;
+        border-color: #707070;
+        cursor: pointer;
+        font-weight: bold;
+        margin-left: 650px;
+        margin-top: -40px;
+        height: 40px;
+        margin-bottom: 200px;
+    }
+
+    .btn_email:hover{
+        background-color: #ffffff ;
+        border-color: white;
+        color: #707070;
+    }
+
+    .bingkai-bawah-3{
+        margin-left: -67px;
+        margin-top: -150px;
+    }
+
+    .kolom_2{
+        background: #7F7770;
+        margin-top: -200px;
+    }
+
+    .kolom-1{
+        margin-top: 210px;
+    }
+    
+    .kolom-1-1{
+        font-weight: 600;
+        font-size: 25px;
+        color: white;
+    }
+
+    .kolom-1-2{
+        width: 300px;
+        margin-right: 200px;
+        font-size: 15px;
+        color: white;
+    }
+
+
+    .kolom-2{
+        margin-top: 210px;
+    }
+
+    .kolom-2-1{
+        font-weight: 600;
+        font-size: 25px;
+        color: white;
+    }
+
+    .kolom-2-2{
+        color: white;
+        font-size: 15px;
+        
+    }
+
+    .kolom-2-2:hover{
+        color: black;
+    }
+
+
+    .kolom-3{
+        margin-top: 210px;
+        color: white;
+    }
+
+    .kolom-3-1{
+        font-weight: 600;
+        font-size: 25px;
+    }
+
+    .kolom-3-2{
+        color: white;
+        font-size: 15px;
+        
+    }
+
+    .kolom-3-2:hover{
+        color: black;
+    }
+
+    .kolom-4{
+        margin-top: 210px;
+        color: white;
+        margin-bottom: 200px;
+    }
+
+    .kolom-4-1{
+        font-weight: 600;
+        font-size: 25px;
+    }
+
+    .kolom-4-2{
+        color: white;
+        font-size: 15px;
+        
+    }
+
+    .kolom-4-2:hover{
+        color: black;
+    }
+
+
+    .copyright{
+        font-size: 20px;
+        text-align: center;
+
+    }
+    
+
+
+
+    /*tablet*/
+
+    /*phone*/
